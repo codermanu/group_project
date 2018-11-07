@@ -17,7 +17,7 @@
   <div class="navbar1">
       <ul> <!-- navigation bar -->
         <li><a href="homepage.php">HOME</a></li>
-        <li><a href=problems.php">HELP</a></li>
+        <li><a href="problems.php">HELP</a></li>
         <li><a href="history.php">HISTORY</a></li>
         <li><a href="index.php">LOG OUT</a></li>
       </ul>
