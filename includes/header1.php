@@ -9,9 +9,9 @@
 <div class="main">
 
   <div class="topnav">
-    <img src="Images/newlogo.png" class="img1">
+    <!-- <img src="Images/newlogo.png" class="img1"> -->
     <div class="nametxt font7">
-      <h1>Smart Farming</h1><!-- heading -->
+      <!-- <h1>Smart Farming</h1> --><!-- heading -->
     </div>
   </div>
   <div class="navbar1">

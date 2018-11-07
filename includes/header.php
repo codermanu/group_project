@@ -8,10 +8,10 @@
 <header>
 <div class="main">
 
-  <div style="color: white; background-color: #3CB371; height: 100px;">
-    <img src="images/newlogo.png" class="img1">
+  <div style="color: white; background-color: #3CB371; height: 5px;">
+    <!-- <img src="images/newlogo.png" class="img1"> -->
     <div class="nametxt font7">
-      <h1>Smart Farming</h1><!-- heading -->
+      <!-- <h1>Smart Farming</h1> --><!-- heading -->
     </div>
   </div>
       <div class="navbar1">
