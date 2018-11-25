@@ -3,10 +3,20 @@
 <html lang="en">
 
 <head>
-
+  <style>
+  body {
+  
+    background: url("img/two.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+</style>
   </head>
 
-  <body background="images/back.jpg">
+  <body>
       <?php include("includes/mdnload.php"); ?>
     
       <?php include("includes/header1.php"); ?>
